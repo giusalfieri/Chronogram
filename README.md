@@ -449,7 +449,8 @@ Then contribute to:
 
 | Name             | GitHub                                         |
 | ---------------- | ---------------------------------------------- |
+| Giuseppe Alfieri | [@giusalfieri](https://github.com/giusalfieri) |
 | Violeta Perez    | [@violetapd](https://github.com/violetapd)     |
 | Paolo Simeone    | [@bonoboprog](https://github.com/bonoboprog)   |
-| Giuseppe Alfieri | [@giusalfieri](https://github.com/giusalfieri) |
+
 
