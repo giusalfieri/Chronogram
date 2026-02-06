@@ -130,9 +130,4 @@ public class PasswordResetDAO {
         }
     }
 
-    // --- METODI OBSOLETI RIMOSSI ---
-    // public void insertResetToken(...) -> rimpiazzato da save(...)
-    // public PasswordResetDTO getByTokenHash(...) -> rimpiazzato da findBySelector(...)
-    // public void deleteToken(...) -> rimpiazzato da deleteBySelector(...)
-    // public List<PasswordResetDTO> getAllActiveResets(...) -> Rimosso perché inefficiente e non più necessario
 }
